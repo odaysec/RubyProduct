@@ -1,0 +1,10 @@
+id:
+  products:
+    index:
+      title: "Produk"
+      name: "Nama"
+      description: "Deskripsi"
+      price: "Harga"
+      image: "Gambar"
+    show:
+      title: "Detail Produk"

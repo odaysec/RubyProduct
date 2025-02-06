@@ -1,0 +1,7 @@
+<div>
+  <h2><%= product.name %></h2>
+  <p><%= product.description %></p>
+  <p><%= number_to_currency(product.price) %></p>
+  <%= image_tag product.image_url, alt: product.name %>
+  <%= link_to t('products.show.title'), product_path(product) %>
+</div>

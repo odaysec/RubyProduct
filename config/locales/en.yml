@@ -1,0 +1,10 @@
+en:
+  products:
+    index:
+      title: "Products"
+      name: "Name"
+      description: "Description"
+      price: "Price"
+      image: "Image"
+    show:
+      title: "Product Details"
